@@ -24,6 +24,7 @@ We're looking for someone who can nurture good ideas and find great (and technic
 - We are the nerve-center of the newsroom’s data analysis using SQL (Postgres), Jupyter notebooks, R
 - Knowledge in DevOps is a big plus. Familiarity with shell scripting and *nix sysadmin tasks would be great. We use Amazon Web Services (AWS) so we’d prefer some familiarity with that platform. 
 
+We want our newsroom to look more like the city that we serve. If you’re a person from a group that’s underrepresented in engineering or journalism, we really want to see your application!
 
 For more information:
 =
