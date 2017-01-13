@@ -19,12 +19,19 @@ Our newsroom offers a flexible schedule, competitive salary and benefits and a n
 **Some of the skills we are looking for:**
 
 *Amazon Web Services (EC2, S3, RDS, Route 53, Cloud Search)
+
 *Linux system administration (Ubuntu experience preferred)
+
 *Databases, including PostgreSQL + PostGIS
+
 *Data structure servers (we use Redis)
+
 *Virtualization (we use Vagrant + Virtualbox)
+
 *Python (including Django and Flask)
+
 *Javascript, es6 and popular libraries (Node, React, D3, Backbone)
+
 *HTML5/CSS3
 
 
