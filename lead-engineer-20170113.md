@@ -1,7 +1,7 @@
 Background
 --------------------
 
-The Chicago Tribune Data Visualization team is looking for a lead engineer. The ideal candidate is passionate about building applications and code that make our journalism work, creating tools for experts and non-experts alike and making a framework we can use and built upon into the future.
+The Chicago Tribune Data Visualization team is looking for a lead engineer. The ideal candidate is passionate about building applications and code that make our journalism work, creating tools for experts and non-experts alike and making a framework we can use and build upon into the future.
 
 
 Description
@@ -9,7 +9,7 @@ Description
 
 Our team is focused on using data to tell important Chicago stories — reporting, analyzing, conceptualizing and building digital maps, charts, diagrams and applications. We study our users and tell stories that fit our newsroom’s mission as a watchdog, resource and citizen of Chicago.
 
-Within this storytelling is a host of tools that have been developed in-house for the last 8 years and, many times, shared with the wider journalist-coder community.
+Within this storytelling is a host of tools that have been developed in-house for the last decade and, many times, shared with the wider journalist-coder community.
 
 The lead engineer would be central in this role, developing and expanding our toolbox, creating a sustainable DevOps environment and pushing our newsroom into areas it has yet to imagine. We are also looking for someone who can help us use technology to crack some of the city’s most important and difficult data sets.
 
