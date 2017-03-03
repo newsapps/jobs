@@ -32,4 +32,4 @@ We want our newsroom to look more like the city that we serve. **If you’re a p
 
 ##For more information:
 
-Contact Data Visualization Editor **Jonathon Berlin**, jsberlin@chicagotribune.com, or 312-222-3508, (@jonathonberlin)[https://twitter.com/jonathonberlin]
+Contact Data Visualization Editor **Jonathon Berlin**, jsberlin@chicagotribune.com, or 312-222-3508, [@jonathonberlin](https://twitter.com/jonathonberlin)
