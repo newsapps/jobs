@@ -1,4 +1,4 @@
-The (Chicago Tribune Data Visualization)[chicagotribune.com/news/data] team is looking for a senior back-end developer to join our team of news application developers, data reporters and designers. We're a mostly python shop. Our main pursuit? To use data to explain the news, hold public officials accountable, capture the experience of living and working in Chicago. 
+The [Chicago Tribune Data Visualization](chicagotribune.com/news/data) team is looking for a senior back-end developer to join our team of news application developers, data reporters and designers. We're a mostly python shop. Our main pursuit? To use data to explain the news, hold public officials accountable, capture the experience of living and working in Chicago. 
 
 We create digital stories, applications and motion graphics using a suite of tools developed here and we are looking to build on that legacy. The senior developer would be a key part of that. 
 
@@ -15,7 +15,7 @@ We want our newsroom to look more like the city that we serve. **If you’re a p
 ##What would you do:
 
 * Design and develop applications, tools and scripts to improve our development to production cycle.
-   * Help develop (crime.chicagotribune.com)[http://crime.chicagotribune.com/] to be more useful to the public and the newsroom
+   * Help develop [crime.chicagotribune.com](http://crime.chicagotribune.com/) to be more useful to the public and the newsroom
 * Develop and refactor features for Tarbell, our publishing platform
 * Assist in reporting and data analysis
 * Play a major role in helping other team members gain programming skills
