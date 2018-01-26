@@ -14,6 +14,8 @@ Over your three months you will have the opportunity to team up with journalists
 Interested, please contact:
 
 *Jonathon Berlin*
+
 *jsberlin@chicagotribune.com*
+
 *312-222-3508*
 
