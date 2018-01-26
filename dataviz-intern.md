@@ -7,8 +7,8 @@ The stories we tell are visual, digital and important to Chicago users. You will
 Over your three months you will have the opportunity to team up with journalists from the team and elsewhere in the newsroom to create projects large and small. You will also have the leeway to work on your own ideas. 
 
 **The best candidates will have a mix of these skills:**
-- Enterprising reporting chops and an knack for ideas
-- Enthusiastic programming skills and familiarity with HTML/CSS, Javascript, node and git
+- Enterprising reporting chops and an knack for stories
+- Enthusiastic programming skills (We use HTML/CSS, Javascript, node and git and all manner of tools to report, clean, analyze and present data)
 - Expansive visual instincts and ideas
 
 Interested, please contact:
