@@ -1,4 +1,4 @@
-The Chicago Tribune data visualization department is looking for an intern Summer of 2018.
+The Chicago Tribune data and graphics department is looking for an intern.
 
 You will join our team of reporters, programmers and visual journalists to create data-centered, digital stories for chicagotribune.com.
 
