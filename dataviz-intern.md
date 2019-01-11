@@ -11,7 +11,7 @@ Over your three months you will have the opportunity to team up with journalists
 - Enthusiastic programming skills (We use HTML/CSS, Javascript, node and git and all manner of tools to report, clean, analyze and present data)
 - Expansive visual instincts and ideas
 
-Interested, please contact:
+Interested, please reach out:
 
 *Jonathon Berlin, jsberlin@chicagotribune.com, 312-222-3508*
 
