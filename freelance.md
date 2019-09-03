@@ -5,8 +5,8 @@ The Tribune dataviz department is looking for help to create an interactive feat
 
 - Look-up functionality
 - Interactive map as navigation
-- Geocoded points linked to cards
-- Charting, digital design on cards
+- Geocoded points linked to more data on that entity
+- Charting, digital design about each entity
 - Data, text and project timeline will be provided
 
 **Here are links to similar projects for reference:**
