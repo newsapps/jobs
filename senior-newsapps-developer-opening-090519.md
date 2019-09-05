@@ -1,7 +1,7 @@
 Position: Senior News Applications Developer
 == 
 
-The Chicago Tribune data visualization team is looking for a senior news applications developer. We are Chicagoland’s dominant news organization, a fast-moving and vital place to do journalism.
+The Chicago Tribune [data visualization team](https://www.chicagotribune.com/data/) is looking for a senior news applications developer. We are Chicagoland’s dominant news organization, a fast-moving and vital place to do journalism.
 
 Description
 ==
@@ -27,6 +27,4 @@ Skills and requirements
 For more information and to apply
 ==
 
-Contact Data visualization editor Jonathon Berlin, jsberlin@chicagotribune.com, or 312-222-3508.
-
-Apply here.
+Contact Data visualization editor Jonathon Berlin, [jsberlin@chicagotribune.com](mailto:jsberlin@chicagotribune.com), or 312-222-3508.
