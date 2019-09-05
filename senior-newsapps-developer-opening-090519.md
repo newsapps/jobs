@@ -27,4 +27,4 @@ Skills and requirements
 For more information and to apply
 ==
 
-Contact data and graphics editor Jonathon Berlin, [jsberlin@chicagotribune.com](mailto:jsberlin@chicagotribune.com), or [312-222-3508](tel:3122223508).
+Contact data and graphics editor Jonathon Berlin, [jsberlin@chicagotribune.com](mailto:jsberlin@chicagotribune.com), or [(312) 222-3508](tel:3122223508).
