@@ -23,7 +23,7 @@ Skills and requirements
 - We are looking for an senior-level programmer and journalist with at least five years of experience. The ideal candidate has a combination of visual creativity, developer experience and news instinct.
 - Full-stack experience preferred.
 - Most of our utility libraries, data processing pipelines, publishing tools and web applications are written in Python, so familiarity with that is important. If you’re more fluent in another multi-paradigm language such as Ruby or R, that’s ok too, but you should be willing to pick up Python. Familiarity with Python web frameworks such as Django or Flask is very valued.
-- On the frontend, you should be strong in writing semantic HTML5, CSS3 and have a deep knowledge of JavaScript. You should be familiar with the libraries we use for visualization such as d3 and Leaflet, but be able to write code using pure JavaScript. Experience with JavaScript application frameworks such as Node is a plus. 
+- On the frontend, you should be strong in writing semantic HTML, CSS and have a deep knowledge of JavaScript. You should be familiar with the libraries we use for visualization such as d3 and Leaflet, but be able to write code using pure JavaScript. Experience with JavaScript application frameworks such as Node is a plus. 
 - We are looking for an open-source mindset based on a philosophy of creating reusable components and clear documentation. We are not looking to only tell great stories but also to make tools that can be used by more and more of our journalists.
 
 For more information and to apply
