@@ -14,6 +14,8 @@ Our newsroom offers a competitive salary and benefits, flexible schedule, a news
 
 We want our newsroom to look more like the city that we serve. If you’re a person from a group that’s underrepresented in engineering or journalism, we really want to see your application!
 
+This is a Chicago-based job.
+
 
 Skills and requirements
 == 
